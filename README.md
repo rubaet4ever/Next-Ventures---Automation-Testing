@@ -2,12 +2,12 @@
 
 - Using Selenium WebDriver framework/tool
 
-<h1 align="left">TASKS</h1>
+<h2 align="left">TASKS</h2>
 
 - Develop an automated test suite for the checkout page, focusing on the coupon system, payment gateways, and crypto payment.
 - Execute the automated tests and provide a detailed report of the results.
   
-<h1 align="left">Technology</h1>
+<h2 align="left">Technology</h2>
 
 - Framework: Selenium WebDriver
 - IDE: Eclipse
@@ -16,7 +16,7 @@
 - Test_Runner: TestNG
 - Report - ExtentReports
 
-<h1 align="left">Run the Automation Script:</h1>
+<h2 align="left">Run the Automation Script:</h2>
 
 - Open Terminal from Eclipse
 - Type this command: (maven clean test)
